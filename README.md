@@ -7,7 +7,7 @@
 </p>
 
 
-#🖥&nbsp;Status # 📘
+# 🖥&nbsp;Status 📊
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=RL-Guerra&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
@@ -15,12 +15,27 @@
 
 
 
-##🖥 &nbsp;Rewards 📘
+# 🖥 &nbsp;Rewards 🏆
 
 ![](https://github-profile-trophy.vercel.app/?username=Buehno&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
+# 🖥&nbsp;Tools 🛠
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
+
 <summary><h2>📘 My Projects🖥</h2></summary>
 
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=RL-Guerra&repo=OptiDrive&&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=800080)](https://github.com/Buehno/OptiDrive)[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=RL-Guerra&repo=web-OptiDrive&title_color=fff&icon_color=9f9f9f&text_color=ffffff&bg_color=800080)](https://github.com/Buehno/web-OptiDrive)
